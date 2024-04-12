@@ -52,26 +52,32 @@ body {
 
 .army-heavy {
     width: 180px;
+    border-radius: 15px;
 }
 
 .guard-assaulter {
     width: 180px;
+    border-radius: 15px;
 }
 
 .guard-defender {
     width: 180px;
+    border-radius: 15px;
 }
 
 .guard-heavy {
     width: 180px;
+    border-radius: 15px;
 }
 
 .guard-royal {
     width: 180px;
+    border-radius: 15px;
 }
 
 .guard-sniper {
     width: 180px;
+    border-radius: 15px;
 }
 
 .vilões-div {
@@ -91,6 +97,8 @@ body {
 .final {
     background-color: #000000;
     text-align: center;
+    margin: 0;
+    padding: 0;
 }
 
 .final-imagem {
